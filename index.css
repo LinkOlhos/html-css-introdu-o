@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    background-color:rgb(0, 0, 0);
+    color: rgb(252, 249, 249);
+    font-size: 10;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+ p strong{
+    color: #ff0000;
+}
+
+.texto-verde{
+     color: #00ff00;
+}
+ .bg-laranja{
+    background-color: #ff4d00;
+ }
